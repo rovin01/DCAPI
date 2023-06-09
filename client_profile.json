@@ -1,0 +1,23 @@
+{
+    "patent_name": "John",
+    "contact_details": {
+        "address": "7 Bryson Road, Ports Mouth, United Kingdom",
+        "post_code": "PO6 3NU",
+        "door_key": "Always open, staying with daughter",
+        "mobile": "+447400325280"
+    },
+    "Medications": [
+        {
+            "med_name": "Metfomin",
+            "med_size": "2*500mg",
+            "med_type": "Tablet",
+            "med_repetation": "Every day"
+        },
+        {
+            "med_name": "Metfomin",
+            "med_size": "2*500mg",
+            "med_type": "Tablet",
+            "med_repetation": "Every day"
+        }
+    ]
+}
