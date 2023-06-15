@@ -1,23 +1,31 @@
 {
-    "patent_name": "John",
+    "client_name": "Mr John Doe",
+    "client_id": "001",
     "contact_details": {
-        "address": "7 Bryson Road, Ports Mouth, United Kingdom",
-        "post_code": "PO6 3NU",
-        "door_key": "Always open, staying with daughter",
-        "mobile": "+447400325280"
+        "address": "7 Bryson Road, Ports Mouth, United Kingdom, PO6 3NU",
+        "property_access": "Always open, staying with daughter",
+        "phone": "+447400325280"
     },
     "Medications": [
         {
             "med_name": "Metfomin",
-            "med_size": "2*500mg",
-            "med_type": "Tablet",
-            "med_repetation": "Every day"
+            "med_dose": "2*500mg",
+            "med_shedule": "Every Day"
         },
         {
             "med_name": "Metfomin",
-            "med_size": "2*500mg",
-            "med_type": "Tablet",
-            "med_repetation": "Every day"
+            "med_dose": "2*500mg",
+            "med_shedule": "Every Day"
+        }
+    ],
+    "documents": [
+        {
+            "document_id": 1,
+            "document_url":"https://emezzions.com/wp-content/uploads/2022/08/domicialry-care-services2.jpg"
+        },
+                {
+            "document_id": 2,
+            "document_url":"https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_827541_large.jpg?1548168925"
         }
     ]
 }
