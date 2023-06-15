@@ -21,11 +21,63 @@
     "documents": [
         {
             "document_id": 1,
-            "document_url":"https://emezzions.com/wp-content/uploads/2022/08/domicialry-care-services2.jpg"
+            "document_url": "https://emezzions.com/wp-content/uploads/2022/08/domicialry-care-services2.jpg"
         },
-                {
+        {
             "document_id": 2,
-            "document_url":"https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_827541_large.jpg?1548168925"
+            "document_url": "https://s3.eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_827541_large.jpg?1548168925"
+        }
+    ],
+    "visit_type": [
+        {
+            "name": "Morning Visit",
+            "required_task": [
+                {
+                    "task_id": 1,
+                    "task_name": "Medication",
+                    "task_note": "Medication Required"
+                },
+                {
+                    "task_id": 4,
+                    "task_name": "Body Map",
+                    "task_note": "Should take whole body map"
+                },
+                {
+                    "task_id": 7,
+                    "task_name": "Medication",
+                    "task_note": "Medication Required"
+                }
+            ]
+        },
+        {
+            "name": "General Visit",
+            "required_task": [
+                {
+                    "task_id": 1,
+                    "task_name": "Medication",
+                    "task_note": "Medication Required"
+                },
+                {
+                    "task_id": 4,
+                    "task_name": "Body Map",
+                    "task_note": "Should take whole body map"
+                },
+                {
+                    "task_id": 7,
+                    "task_name": "Medication",
+                    "task_note": "Medication Required"
+                }
+            ]
+        }
+    ],
+    "frond_family_access": [
+        {
+            "ff_name": "John",
+            "ff_email": "example@abc.com"
+        },
+        {
+            "ff_name": "John",
+            "ff_email": "example@abc.com"
         }
     ]
 }
