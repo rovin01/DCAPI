@@ -79,5 +79,24 @@
             "ff_name": "John",
             "ff_email": "example@abc.com"
         }
-    ]
+    ],
+    "key_contact": [
+        {
+            "name": "Muno Joe",
+            "relation": "Sister",
+            "contact_details": "07460050320"
+        },
+        {
+            "name": "Smith Joe",
+            "relation": "Brother",
+            "contact_details": "07520622320"
+        }
+    ],
+    "personal_details": {
+        "dob": "8 May 1962 (61 years old)",
+        "languages_spocken": "English",
+        "allergies": "Test Allergies",
+        "interests_hobbies": "Interests and hobbies",
+        "history_background": "History and background"
+    }
 }
