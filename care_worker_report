@@ -1,0 +1,54 @@
+[
+    {
+        "date": "Thursday 15 Jun",
+        "data": [
+            {
+                "start_time": "17:49",
+                "end_time": "",
+                "total_time": "On going",
+                "care_worker_name": "John Doe",
+                "task_completed": []
+            }
+        ]
+    },
+    {
+        "date": "Friday 9 Jun",
+        "data": [
+            {
+                "start_time": "14:35",
+                "end_time": "18:58",
+                "total_time": "76h 23m",
+                "care_worker_name": "John Doe",
+                "task_completed": [
+                    13,
+                    14
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday 9 Jun",
+        "data": [
+            {
+                "start_time": "11:46",
+                "end_time": "14:43",
+                "total_time": "26h 57m",
+                "care_worker_name": "John Doe",
+                "task_completed": [
+                    2,
+                    6
+                ]
+            },
+            {
+                "start_time": "09:55",
+                "end_time": "09:56",
+                "total_time": "1m",
+                "care_worker_name": "John Doe",
+                "task_completed": [
+                    13,
+                    14
+                ]
+            }
+        ]
+    }
+]
