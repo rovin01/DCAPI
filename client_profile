@@ -2,7 +2,7 @@
     "client_name": "Mr John Doe",
     "client_id": "001",
     "contact_details": {
-        "address": "This is coming from API",
+        "address": "7 Bryson Road, Ports Mouth, United Kingdom, PO6 3NU",
         "property_access": "Always open, staying with daughter",
         "phone": "+447400325280"
     },
