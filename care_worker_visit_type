@@ -16,5 +16,19 @@
                 "note_for_care_worker": "Reposition John"
             }
         ]
+    },
+    {
+        "visit_id": 2,
+        "visit_name": "Evening Visit",
+        "required_task": [
+            {
+                "task_id": 1,
+                "note_for_care_worker": "Medication Required"
+            },
+            {
+                "task_id": 5,
+                "note_for_care_worker": "Give general note"
+            }
+        ]
     }
 ]
