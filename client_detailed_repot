@@ -1,0 +1,28 @@
+{
+    "client_name": "John Doe",
+    "client_report_id": 20,
+    "visit_details": {
+        "visit_type": "Morning Visit",
+        "Care Worker": "Rovin Reo",
+        "date_of_visit": "Wednesday, 22 March 2023",
+        "check_in": "10:32",
+        "check_out": "18:52",
+        "duration": "8h 21m",
+        "seemd": "Cheerful"
+    },
+    "medication": [],
+    "body_mapping": {},
+    "food": "",
+    "drinks": "Coffee",
+    "personal_care": "",
+    "toilet_assistance": "",
+    "Repositioning": "Done",
+    "companionship_respite_care": "",
+    "laundry": "",
+    "groceries": "",
+    "housework": "",
+    "household_chores": "",
+    "unable_care": "",
+    "alert": "",
+    "agency_note": ""
+}
