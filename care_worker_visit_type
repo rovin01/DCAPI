@@ -30,5 +30,10 @@
                 "note_for_care_worker": "Give general note"
             }
         ]
+    },
+    {
+        "visit_id": 6,
+        "visit_name": "General Visit",
+        "required_task": []
     }
 ]
