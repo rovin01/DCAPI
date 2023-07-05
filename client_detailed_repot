@@ -11,7 +11,20 @@
         "seemd": "Cheerful"
     },
     "medication": [],
-    "body_mapping": {},
+    "body_mapping": [
+        {
+            "body_note": "Front Left head: iuyr ruty etuew eu hgfkdfg dsr ueri fdshdg fdgfdg"
+        },
+        {
+            "body_note": "Front right sholder: jsdffg dfhjgdfg dfguytofeorgfsdytfdfgidyrg"
+        },
+        {
+            "body_note": "Back left hand and rist: jhgdfhjgsfsgjgdfhsgdhf gjsgdjshgdfgsdjfgjhsgdfhgsdfgsjdgfhg"
+        },
+        {
+            "body_note": "General notes: jsgfs fgsgdfjgsdfgsgfwyfgfgsyfgsdfg"
+        }
+    ],
     "food": "",
     "drinks": "Coffee",
     "personal_care": "",
