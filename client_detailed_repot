@@ -10,7 +10,36 @@
         "duration": "8h 21m",
         "seemd": "Cheerful"
     },
-    "medication": [],
+    "medication": [
+        {
+            "shedule": "morning medication",
+            "medication_details": [
+                {
+                    "medication_name": "Metfomin",
+                    "dosage": "2x500mg Tablet",
+                    "status": true,
+                    "notes": "feeling better"
+                }
+            ]
+        },
+        {
+            "shedule": "morning medication",
+            "medication_details": [
+                {
+                    "medication_name": "Atenolol",
+                    "dosage": "1x50mg Tablet",
+                    "status": true,
+                    "notes": "good"
+                },
+                {
+                    "medication_name": "Ranitidine",
+                    "dosage": "1x150mg Tablet",
+                    "status": true,
+                    "notes": "feeling better"
+                }
+            ]
+        }
+    ],
     "body_mapping": [
         {
             "body_note": "Front Left head: iuyr ruty etuew eu hgfkdfg dsr ueri fdshdg fdgfdg"
