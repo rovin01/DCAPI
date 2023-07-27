@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "date": "Thursday 15 Jul",
+            "schedule": [
+                {
+                    "id": 2,
+                    "start_time": "09:00",
+                    "end_time": "20:00",
+                    "total_time": "8h 30m",
+                    "care_worker_name": "John Doe",
+                    "shift_name": "Morning shift"
+                }
+            ]
+        },
+        {
+            "date": "Friday 16 Jul",
+            "schedule": [
+                {
+                    "id": 8,
+                    "start_time": "09:00",
+                    "end_time": "13:00",
+                    "total_time": "4h 0m",
+                    "care_worker_name": "John Doe",
+                    "shift_name": "Morning shift"
+                },
+                {
+                    "id": 9,
+                    "start_time": "14:00",
+                    "end_time": "18:00",
+                    "total_time": "4h 0m",
+                    "care_worker_name": "John Doe",
+                    "shift_name": "Evening shift"
+                }
+            ]
+        }
+    ],
+    "ststus": true
+}
