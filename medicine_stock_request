@@ -1,0 +1,20 @@
+{
+    "message": "",
+    "data": [
+        {
+            "medicine_id": 1,
+            "medication_name": "Metformin",
+            "medicin_stock": "1 No",
+            "dosage": "500*1",
+            "medicine_image": "https:\/\/cdn.20x.uk\/task\/medicaionicon\/1692951352__medication.png"
+        },
+        {
+            "medicine_id": 2,
+            "medication_name": "Paracetamol",
+            "medicin_stock": "20",
+            "dosage": "500*2",
+            "medicine_image": "https:\/\/cdn.20x.uk\/task\/medicaionicon\/1692951352__medication.png"
+        }
+    ],
+    "status": true
+}
