@@ -1,0 +1,18 @@
+{
+    "message": "",
+    "data": [
+        {
+            "stool_id":1,
+            "stool_type":"Type 1",
+            "stool_icon": "https:\/\/cdn.20x.uk\/stoolform\/type1\/1694062835__stoolform.jpg",
+            "stool_description":"Separate hard lumps, like nuts (hard to pass)"
+        },
+        {
+            "stool_id":2,
+            "stool_type":"Type 2",
+            "stool_icon": "https:\/\/cdn.20x.uk\/stoolform\/type2\/1694062917__stoolform.jpg",
+            "stool_description":"Sausage-shaped but lumpy"
+        }
+    ],
+    "status": true
+}
