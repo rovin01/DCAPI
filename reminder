@@ -1,0 +1,46 @@
+{
+    "message": "",
+    "data": [
+        {
+            "time": "09:00",
+            "alert_description_time": "26\/09\/2023 09:00",
+            "client_name": "Juliet Magna",
+            "client_profile_image": "https:\/\/cdn.20x.uk\/Profileupload\/profileimage\/1693986232__adddocument.png",
+            "alert_name": "Paracetamol",
+            "alert_description": "500 mg X 1, Morning",
+            "client_id": 15,
+            "schedule_id": 24
+        },
+        {
+            "time": "13:00",
+            "alert_description_time": "26\/09\/2023 13:00",
+            "client_name": "Juliet Magna",
+            "client_profile_image": "https:\/\/cdn.20x.uk\/Profileupload\/profileimage\/1693986232__adddocument.png",
+            "alert_name": "Paracetamol",
+            "alert_description": "500 mg X 1, Lunch Time",
+            "client_id": 15,
+            "schedule_id": 25
+        },
+        {
+            "time": "20:00",
+            "alert_description_time": "26\/09\/2023 20:00",
+            "client_name": "Juliet Magna",
+            "client_profile_image": "https:\/\/cdn.20x.uk\/Profileupload\/profileimage\/1693986232__adddocument.png",
+            "alert_name": "",
+            "alert_description": "General Reminder",
+            "client_id": 15,
+            "schedule_id": 0
+        },
+        {
+            "time": "21:00",
+            "alert_description_time": "26\/09\/2023 21:00",
+            "client_name": "Juliet Magna",
+            "client_profile_image": "https:\/\/cdn.20x.uk\/Profileupload\/profileimage\/1693986232__adddocument.png",
+            "alert_name": "Paracetamol",
+            "alert_description": "500 mg X 1, Bedtime",
+            "client_id": 15,
+            "schedule_id": 26
+        }
+    ],
+    "status": true
+}
