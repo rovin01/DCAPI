@@ -1,0 +1,321 @@
+{
+    "message": "",
+    "data": {
+        "visit_id": 336,
+        "visit_name": "Evening Shift",
+        "task_list_text": "How did you support staffly?",
+        "task_list": [
+            {
+                "task_id": 1,
+                "task_type_id": 1,
+                "task_name": "Medication",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951352__medication.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 2,
+                "task_type_id": 2,
+                "task_name": "Body map",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951572__boodymap.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 3,
+                "task_type_id": 3,
+                "task_name": "Food",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951491__food.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 4,
+                "task_type_id": 3,
+                "task_name": "Drinks",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951535__drinks.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 5,
+                "task_type_id": 3,
+                "task_name": "Personal care",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951635__personalcare.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 6,
+                "task_type_id": 2,
+                "task_name": "Toilet Assistance",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951698__toiletassistance.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 7,
+                "task_type_id": 3,
+                "task_name": "Repositioning",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951761__repositioning.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 8,
+                "task_type_id": 3,
+                "task_name": "Companionship/respite care",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951829__companioshiprespitecare.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 9,
+                "task_type_id": 3,
+                "task_name": "Laundry",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951928__laundary.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 10,
+                "task_type_id": 3,
+                "task_name": "Groceries",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951975__groceries.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 11,
+                "task_type_id": 3,
+                "task_name": "Housework",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692952049__housework.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 12,
+                "task_type_id": 3,
+                "task_name": "Household chores",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692952101__householdchores.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 13,
+                "task_type_id": 3,
+                "task_name": "Blood sugar monitoring",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695814462__adddocument.png",
+                "is_task_required": true,
+                "is_task_completed": true
+            },
+            {
+                "task_id": 14,
+                "task_type_id": 3,
+                "task_name": "Body weight",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695814481__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 15,
+                "task_type_id": 2,
+                "task_name": "Blood pressure monitoring",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695813492__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 16,
+                "task_type_id": 3,
+                "task_name": "Leisure",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695820611__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 17,
+                "task_type_id": 3,
+                "task_name": "General Task",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695820611__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 0,
+                "task_type_id": 0,
+                "task_name": "Unable to deliver care",
+                "task_icon": "https://cdn.20xdemo.uk/task/unabletodeviarcareicon/1692952158__unabletodelivarcare.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            }
+        ],
+        "req_task_list": [
+            {
+                "task_id": 13,
+                "task_type_id": 3,
+                "task_name": "Blood sugar monitoring",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695814462__adddocument.png",
+                "is_task_required": true,
+                "is_task_completed": true
+            }
+        ],
+        "non_req_task_list": [
+            {
+                "task_id": 1,
+                "task_type_id": 1,
+                "task_name": "Medication",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951352__medication.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 2,
+                "task_type_id": 2,
+                "task_name": "Body map",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951572__boodymap.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 3,
+                "task_type_id": 3,
+                "task_name": "Food",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951491__food.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 4,
+                "task_type_id": 3,
+                "task_name": "Drinks",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951535__drinks.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 5,
+                "task_type_id": 3,
+                "task_name": "Personal care",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951635__personalcare.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 6,
+                "task_type_id": 2,
+                "task_name": "Toilet Assistance",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951698__toiletassistance.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 7,
+                "task_type_id": 3,
+                "task_name": "Repositioning",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951761__repositioning.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 8,
+                "task_type_id": 3,
+                "task_name": "Companionship/respite care",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951829__companioshiprespitecare.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 9,
+                "task_type_id": 3,
+                "task_name": "Laundry",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951928__laundary.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 10,
+                "task_type_id": 3,
+                "task_name": "Groceries",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692951975__groceries.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 11,
+                "task_type_id": 3,
+                "task_name": "Housework",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692952049__housework.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 12,
+                "task_type_id": 3,
+                "task_name": "Household chores",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1692952101__householdchores.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 14,
+                "task_type_id": 3,
+                "task_name": "Body weight",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695814481__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 15,
+                "task_type_id": 2,
+                "task_name": "Blood pressure monitoring",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695813492__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 16,
+                "task_type_id": 3,
+                "task_name": "Leisure",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695820611__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 17,
+                "task_type_id": 3,
+                "task_name": "General Task",
+                "task_icon": "https://cdn.20xdemo.uk/assets/1695820611__adddocument.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            },
+            {
+                "task_id": 0,
+                "task_type_id": 0,
+                "task_name": "Unable to deliver care",
+                "task_icon": "https://cdn.20xdemo.uk/task/unabletodeviarcareicon/1692952158__unabletodelivarcare.png",
+                "is_task_required": false,
+                "is_task_completed": false
+            }
+        ],
+        "jobid": 2035,
+        "arrived_at": "",
+        "is_other_worker": false,
+        "other_worker_text": "",
+        "any_other_worker": false,
+        "other_worker_list": [
+            {
+                "id": 2,
+                "staff_name": "test name",
+                "is_selected": false
+            }
+        ],
+        "is_staff_rating": true,
+        "staff_rating_text": "Share your experience with staffly",
+        "staff_rating": 0,
+        "summary": "",
+        "alert_raise": false,
+        "alert_description": ""
+    },
+    "status": true
+}
