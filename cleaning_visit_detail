@@ -3,15 +3,17 @@
     "data": {
         "before": {
             "task_sub_id": 6,
-            "task_name": "Kitchen Cleaning",
+            "task_name": "Chimney is not working",
             "time": "22-05-2024  05:27 PM",
-            "image_url": ""
+            "image_url": "",
+            "task_status": false
         },
         "after": {
-            "task_sub_id": 7,
-            "task_name": "Kitchen Cleaning",
+            "task_sub_id": 6,
+            "task_name": "Chimney after cleaning. Now it's working",
             "time": "22-05-2024  07:30 PM",
-            "image_url": ""
+            "image_url": "",
+            "task_status": true
         }
     },
     "status": true
