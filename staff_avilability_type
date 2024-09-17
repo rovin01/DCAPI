@@ -1,0 +1,31 @@
+{
+    "status": true,
+    "message": "How to set my avilabolity, notes",
+    "data": [
+        {
+            "id": 1,
+            "abbreviation": "AE",
+            "phrase": "Available Early"
+        },
+        {
+            "id": 2,
+            "abbreviation": "AL",
+            "phrase": "Available Late"
+        },
+        {
+            "id": 3,
+            "abbreviation": "ALD",
+            "phrase": "Available Long Days"
+        },
+        {
+            "id": 4,
+            "abbreviation": "AN",
+            "phrase": "Available Nights"
+        },
+        {
+            "id": 5,
+            "abbreviation": "ATW",
+            "phrase": "Available Twight"
+        }
+    ]
+}
