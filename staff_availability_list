@@ -3,8 +3,8 @@
     "message": "",
     "data": [
         {
-            "id": 3,
             "display_date": "September 18 Wednesday",
+            "date": "20240918",
             "availability": [
                 {
                     "abbreviation_id": 1,
@@ -39,8 +39,8 @@
             ]
         },
         {
-            "id": 4,
             "display_date": "September 19 Thursday",
+            "date": "20240919",
             "availability": [
                 {
                     "abbreviation_id": 1,
@@ -75,8 +75,8 @@
             ]
         },
         {
-            "id": 6,
             "display_date": "September 20 Friday",
+            "date": "20240920",
             "availability": [
                 {
                     "abbreviation_id": 1,
@@ -111,8 +111,8 @@
             ]
         },
         {
-            "id": 7,
             "display_date": "September 21 Saturday",
+            "date": "20240921",
             "availability": [
                 {
                     "abbreviation_id": 1,
