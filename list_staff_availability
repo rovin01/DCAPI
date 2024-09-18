@@ -1,0 +1,150 @@
+{
+    "status": true,
+    "message": "",
+    "data": [
+        {
+            "id": 3,
+            "display_date": "September 18 Wednesday",
+            "availability": [
+                {
+                    "abbreviation_id": 1,
+                    "abbreviation": "AE",
+                    "phrase": "Available Early",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 2,
+                    "abbreviation": "AL",
+                    "phrase": "Available Late",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 3,
+                    "abbreviation": "ALD",
+                    "phrase": "Available Long Days",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 4,
+                    "abbreviation": "AN",
+                    "phrase": "Available Nights",
+                    "is_selected": false
+                },
+                {
+                    "abbreviation_id": 5,
+                    "abbreviation": "ATW",
+                    "phrase": "Available Twight",
+                    "is_selected": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "display_date": "September 19 Thursday",
+            "availability": [
+                {
+                    "abbreviation_id": 1,
+                    "abbreviation": "AE",
+                    "phrase": "Available Early",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 2,
+                    "abbreviation": "AL",
+                    "phrase": "Available Late",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 3,
+                    "abbreviation": "ALD",
+                    "phrase": "Available Long Days",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 4,
+                    "abbreviation": "AN",
+                    "phrase": "Available Nights",
+                    "is_selected": false
+                },
+                {
+                    "abbreviation_id": 5,
+                    "abbreviation": "ATW",
+                    "phrase": "Available Twight",
+                    "is_selected": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "display_date": "September 20 Friday",
+            "availability": [
+                {
+                    "abbreviation_id": 1,
+                    "abbreviation": "AE",
+                    "phrase": "Available Early",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 2,
+                    "abbreviation": "AL",
+                    "phrase": "Available Late",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 3,
+                    "abbreviation": "ALD",
+                    "phrase": "Available Long Days",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 4,
+                    "abbreviation": "AN",
+                    "phrase": "Available Nights",
+                    "is_selected": false
+                },
+                {
+                    "abbreviation_id": 5,
+                    "abbreviation": "ATW",
+                    "phrase": "Available Twight",
+                    "is_selected": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "display_date": "September 21 Saturday",
+            "availability": [
+                {
+                    "abbreviation_id": 1,
+                    "abbreviation": "AE",
+                    "phrase": "Available Early",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 2,
+                    "abbreviation": "AL",
+                    "phrase": "Available Late",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 3,
+                    "abbreviation": "ALD",
+                    "phrase": "Available Long Days",
+                    "is_selected": true
+                },
+                {
+                    "abbreviation_id": 4,
+                    "abbreviation": "AN",
+                    "phrase": "Available Nights",
+                    "is_selected": false
+                },
+                {
+                    "abbreviation_id": 5,
+                    "abbreviation": "ATW",
+                    "phrase": "Available Twight",
+                    "is_selected": false
+                }
+            ]
+        }
+    ]
+}
