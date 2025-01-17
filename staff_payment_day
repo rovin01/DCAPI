@@ -1,0 +1,14 @@
+{
+    "message": "",
+    "data": [
+        {
+            "id": 112,
+            "day": "Friday 14th"
+        },
+        {
+            "id": 113,
+            "day": "Friday 21th"
+        }
+    ],
+    "status": true
+}
