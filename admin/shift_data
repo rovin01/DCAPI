@@ -1,0 +1,12 @@
+{
+    "message": "",
+    "published_vecancy": 10,
+    "data": {
+        "shift_id": 20,
+        "shift_time": "",
+        "user_type_name": "HCA",
+        "client_name": "Novel Nurse",
+        "staff_image": ""
+    },
+    "status": true
+}
