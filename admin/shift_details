@@ -1,0 +1,20 @@
+{
+    "message": "",
+    "published_vecancy": 10,
+    "data": {
+        "shift_id": 20,
+        "shift_time": "",
+        "shift_date": "",
+        "user_type_name": "HCA",
+        "client_name": "Novel Nurse",
+        "staff_image": "",
+        "shift_name": "Night Shift Sample",
+        "shift_type": "Night Shift",
+        "shift_ours": "10.00",
+        "posted_at": "20/01/2025 09:15 am",
+        "requested_by": "Sunny James",
+        "entered_by": "Admin",
+        "department": "HCA"
+    },
+    "status": true
+}
