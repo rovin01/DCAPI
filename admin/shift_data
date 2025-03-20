@@ -1,12 +1,33 @@
 {
+    "_id": 2,
+    "_parameter": {
+        "segment_id": 1,
+        "date": ""
+    },
     "message": "",
     "published_vecancy": 10,
-    "data": {
-        "shift_id": 20,
-        "shift_time": "",
-        "user_type_name": "HCA",
-        "client_name": "Novel Nurse",
-        "staff_image": ""
-    },
+    "data": [
+        {
+            "shift_id": 20,
+            "shift_time": "06.00 AM - 18.00 PM",
+            "user_type_name": "HCA",
+            "client_name": "Novel Nurse",
+            "staff_image": ""
+        },
+        {
+            "shift_id": 20736,
+            "shift_time": "06.00 AM - 18.00 PM",
+            "user_type_name": "HCA",
+            "client_name": "Novel Nurse",
+            "staff_image": ""
+        },
+        {
+            "shift_id": 20957,
+            "shift_time": "06.00 AM - 18.00 PM",
+            "user_type_name": "HCA",
+            "client_name": "Novel Nurse",
+            "staff_image": ""
+        }
+    ],
     "status": true
 }
