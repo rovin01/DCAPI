@@ -1,4 +1,9 @@
 {
+    "_parameters": {
+        "segment_id": 1,
+        "month": 3,
+        "year": 2025
+    },
     "status": true,
     "message": "",
     "data": [
