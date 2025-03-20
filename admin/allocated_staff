@@ -1,0 +1,64 @@
+{
+    "_parameters": {
+        "segment_id": 1,
+        "client_id": 11963,
+        "id": 13804,
+        "itemsPerPage": 10,
+        "currentPage": 1
+    },
+    "status": true,
+    "message": "",
+    "data": [
+        {
+            "staff_id": 123123,
+            "staff_name": "Alex Paul",
+            "staff_image": "https:\/\/cdn.20xdemo.uk\/tenant\/20xdemo\/s1\/staff\/profileupload\/profileimage\/1721278907_staffphoto.jpg",
+            "user_type_name": "HCA, SHCA, CL, SG, RGN, DR",
+            "staff_phone": "789067564",
+            "distance": "5.5 Km",
+            "total_shift": "4",
+            "this_week_shift": "0",
+            "this_week_hours": "0",
+            "availability": [
+                {
+                    "abbreviation": "ALY",
+                    "phrase": "Availabile Early"
+                },
+                {
+                    "abbreviation": "AL",
+                    "phrase": "Availabile Late"
+                }
+            ],
+            "conflict_msg": [
+                "Required certificates are pending upload or have expired. Please take the necessary action - ID & RIGHT TO WORK-Right to work expiry date, , DBS-Expiry Date , MCA , ID & RIGHT TO WORK-Passport Expiry Date  certificates",
+                "Sample message 2"
+            ],
+            "conflict_status": true,
+            "book_status": false
+        },
+        {
+            "staff_id": 123123,
+            "staff_name": "Alex Paul",
+            "staff_image": "https:\/\/cdn.20xdemo.uk\/tenant\/20xdemo\/s1\/staff\/profileupload\/profileimage\/1721278907_staffphoto.jpg",
+            "user_type_name": "HCA, SHCA, CL, SG, RGN, DR",
+            "staff_phone": "789067564",
+            "distance": "5.5 Km",
+            "total_shift": "4",
+            "this_week_shift": "0",
+            "this_week_hours": "0",
+            "availability": [
+                {
+                    "abbreviation": "ALY",
+                    "phrase": "Availabile Early"
+                },
+                {
+                    "abbreviation": "AL",
+                    "phrase": "Availabile Late"
+                }
+            ],
+            "conflict_msg": [],
+            "conflict_status": false,
+            "book_status": true
+        }
+    ]
+}
