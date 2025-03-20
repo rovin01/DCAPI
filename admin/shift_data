@@ -2,7 +2,9 @@
     "_id": 2,
     "_parameter": {
         "segment_id": 1,
-        "date": ""
+        "date": "",
+        "itemsPerPage": 10,
+        "currentPage": 1
     },
     "message": "",
     "published_vecancy": 10,
