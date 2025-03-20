@@ -1,4 +1,10 @@
 {
+    "_id": 3,
+    "_parameter": {
+        "segment_id": 1,
+        "client_id": 11963,
+        "shift_id": 13804
+    },
     "message": "",
     "published_vecancy": 10,
     "data": {
