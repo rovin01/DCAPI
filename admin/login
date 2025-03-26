@@ -1,0 +1,22 @@
+{
+    "_id": 5,
+    "_parameter": {
+        "email": "stafflyhca@gmail.com",
+        "password": "John123456@"
+    },
+    "message": "login success",
+    "segmentdata": [
+        {
+            "segment_id": 1,
+            "segment_name": "Nursing & Care Agency",
+            "theme_colour": "#51154f"
+        }
+    ],
+    "admin_type": true,
+    "loginuserid": 11034,
+    "usertype": 52,
+    "client_id": 0,
+    "encrypted_id": "WVN4UUpOZGkySGlSTUFZUlJhN0lQdz09",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIyIiwianRpIjoiOGQ4MWUxOTVlN2Q2YTkzNzI3NmI2YTVmNGFjZTQ1ZjBhMjc0ZDFiYWMxZmY3Y2VmMTgxMzAyYmRhYTVmOGRkMmE1ZTI1N2ZlM2Q0ZjEwZDEiLCJpYXQiOjE3NDI5NjczNjMuNTM1NjksIm5iZiI6MTc0Mjk2NzM2My41MzU2OTEsImV4cCI6MTc3NDUwMzM2My41MzIzNSwic3ViIjoiMTEwMzQiLCJzY29wZXMiOltdfQ.KahkvEWkyY0tTw5jJt1EfYT8NRBRrxuH2bA_2jpjVv-5XP4iiqCRUrzkc-oL03L1zVOcOO1vlLwpbgQZG3nPWGk8fxnvbUhGngYO7HnGvDB_8n2xDksL_UwAzJEn9i-S7uMMx391iauhcPMSOz3mvKWqc4vO10u7yF3omFkCGyD8W24pzACMdQpUbc6B-jhganekj3NTDBGQCr3LnY5SR-oLzMnXghzB0uJb4MbsEDXg0SlqFD2v48mLshQRWIMrzD8ke5HOqupIRmjPg0qDUfJs9njBBRUa-P29miBmQFFZMquuICoEI7SU7BqQviVwhtoUcUnsjPtx13JfI1CRSod4zJZS2CGdBrD6CUKO3h894m6mHnoo6otkQWCwZ5HageJBRv0__BStEcbaswcsoUL9Ij5DwbllGJaiaLdqrTtIz1V1yFPId9Mi3_1dGkw2WH7cZ9syuksceyPin5uwJxiDchW0ANuqmQDeKpCqruICiqRfoTXqEfBJ6gHGXJCyEB0EQqZOkCnsrjSxBKlJnbZrNrKUpM-aQzGJK9w5h1ja_OJHpvBWsfHQLbQ2A6f-eKB6I0REuLV0TqXBTJWGCI-pbyJCFVlf_VeGyESGyHkO5NrNDvWBRVUb-QQQqyunu8MAKeDVuMNlSfI1cq2Of9ReOV5T0J6pMBpbB2BWEI0",
+    "status": true
+}
