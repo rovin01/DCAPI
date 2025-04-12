@@ -1,0 +1,17 @@
+                                          Row(
+                                            children: [
+                                              Text(
+                                                'Admiral',
+                                                style: GoogleFonts.poppins(
+                                                  fontSize: 12,
+                                                  fontWeight: FontWeight.w500,
+                                                  color: primary,
+                                                ),
+                                              ),
+                                              Spacer(),
+                                              SvgPicture.asset(
+                                                "assets/svgs/users2.svg",
+                                                height: 15,
+                                              ),
+                                            ],
+                                          )
