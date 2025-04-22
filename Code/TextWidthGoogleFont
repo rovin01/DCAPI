@@ -1,0 +1,10 @@
+  Widget showTextWidthGoogleFont() {
+    return Text(
+      'Published Vacancy',
+      style: GoogleFonts.cairo(
+        fontSize: 16,
+        fontWeight: FontWeight.w700,
+        color: Colors.white,
+      ),
+    );
+  }
