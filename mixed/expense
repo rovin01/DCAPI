@@ -1,0 +1,21 @@
+{
+    "_parameter": {
+        "staff_id": 67623,
+        "segment_id": 14,
+        "client_id": 125
+    },
+    "message": "",
+    "data": [
+        {
+            "expense_id": 147,
+            "expense_name": "Bus",
+            "expense_description": "Travelling expense by bus can include."
+        },
+        {
+            "expense_id": 143,
+            "expense_name": "Train",
+            "expense_description": "Travelling expense by Train can include."
+        }
+    ],
+    "status": true
+}
