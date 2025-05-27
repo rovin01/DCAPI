@@ -1,0 +1,20 @@
+{
+    "_parameter": {
+        "staff_id": 67623,
+        "segment_id": 14
+    },
+    "message": "",
+    "data": [
+        {
+            "client_id": 123,
+            "client_name": "Best Buy",
+            "client_location": "Richfield, Minnesota"
+        },
+        {
+            "client_id": 125,
+            "client_name": "Comcast",
+            "client_location": "Philadelphia, Pennsylvania"
+        }
+    ],
+    "status": false
+}
