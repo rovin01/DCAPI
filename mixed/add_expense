@@ -1,0 +1,14 @@
+{
+    "_parameter": {
+        "staff_id": 67623,
+        "segment_id": 14,
+        "client_id": 125,
+        "expense_id": 143,
+        "expense_amount": "150.78",
+        "expense_description": "Travelling to shop",
+        "image": ""
+    },
+    "message": "Data saved sucessfully",
+    "data": {},
+    "status": true
+}
