@@ -1,0 +1,41 @@
+{
+    "_parameter": {
+        "staff_id": 67623,
+        "segment_id": 14,
+        "date": "2025-06-04"
+    },
+    "message": "",
+    "data": [
+        {
+            "client_id": 123,
+            "client_name": "Best Buy",
+            "client_location": "City, State",
+            "clock_status": 2,
+            "worked_hours": "4 hours",
+            "client_shift_configuration_type": 1,
+            "open_shift_count": 10,
+            "direct_posted_shift_count": 2
+        },
+        {
+            "client_id": 125,
+            "client_name": "Comcast",
+            "client_location": "Philadelphia, Pennsylvania",
+            "clock_status": 1,
+            "worked_hours": null,
+            "client_shift_configuration_type": 1,
+            "open_shift_count": 10,
+            "direct_posted_shift_count": 2
+        },
+        {
+            "client_id": 125,
+            "client_name": "Tech",
+            "client_location": "Philadelphia, Pennsylvania",
+            "clock_status": 0,
+            "worked_hours": null,
+            "client_shift_configuration_type": 2,
+            "open_shift_count": 0,
+            "direct_posted_shift_count": 0
+        }
+    ],
+    "status": true
+}
