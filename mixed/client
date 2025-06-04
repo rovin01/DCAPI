@@ -13,7 +13,7 @@
         {
             "client_id": 125,
             "client_name": "Comcast",
-            "client_location": "Philadelphia, Pennsylvania"
+            "client_location": "City, State"
         }
     ],
     "status": true
